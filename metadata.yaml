@@ -1,0 +1,31 @@
+_repo: The-Pocahontas-John-Smith-Story_35863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edmunds, Pocahontas Wight
+    gutenberg_agent_id: '37942'
+    url: http://www.gutenberg.org/2009/agents/37942
+  editor:
+    agent_name: Bailey, James H. (James Henry)
+    birthdate: 1919
+    gutenberg_agent_id: '37943'
+    url: http://www.gutenberg.org/2009/agents/37943
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35863'
+  lccn: '57020954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Smith, John, 1580-1631'
+- !lcsh 'Pocahontas, -1617'
+title: The Pocahontas-John Smith Story
+url: http://www.gutenberg.org/ebooks/35863
